@@ -4,7 +4,7 @@ Want to try it ?
 
 from your terminal run those commands :
 
-mkdir ~/invaders
+mkdir ~/invaders  
 cd invaders
 git clone git@github.com:ddiieeggooo/invaders.git
 cd invaders
